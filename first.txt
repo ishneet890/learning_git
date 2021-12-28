@@ -1,1 +1,3 @@
 commit 3 dear!!
+git ignore me y
+ar
