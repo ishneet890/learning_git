@@ -2,4 +2,9 @@ commit 3 dear!!
 git ignore me y
 arffff
 This is from branch develop
+<<<<<<< HEAD
 Hi this is in master!!
+=======
+this is from buuggggg
+this is from bugfix branch
+>>>>>>> bugfix
